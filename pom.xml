@@ -24,6 +24,8 @@
   </dependencies>
 
   <build>
+    <finalName>Uno-soft_lng-java</finalName>
+
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
